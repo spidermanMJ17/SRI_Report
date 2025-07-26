@@ -26,6 +26,7 @@ This stored procedure is part of a CRM database system and is responsible for ch
 
 ---
 
+![Screenshot showing implementation details](Screenshot%202025-07-26%20161911.png)
 
 ## ⚙ Optimization Highlights
 
