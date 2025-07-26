@@ -25,7 +25,10 @@ This stored procedure is part of a CRM database system and is responsible for ch
 | `@p_result`      | `int OUTPUT`   | Returns `0` if name exists, `1` if available              |
 
 ---
+## 📊 Logical Flow (Block Diagram)
+![Screenshot 2025-07-26 161911](https://github.com/spidermanMJ17/SRI_Report/blob/main/Screenshot%202025-07-26%20161911.png)
 
+---
 
 ## ⚙ Optimization Highlights
 
